@@ -1,0 +1,15 @@
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\bin\Debug\net6.0\EX1.exe
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\bin\Debug\net6.0\EX1.deps.json
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\bin\Debug\net6.0\EX1.runtimeconfig.json
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\bin\Debug\net6.0\EX1.dll
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\bin\Debug\net6.0\EX1.pdb
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\obj\Debug\net6.0\EX1.csproj.AssemblyReference.cache
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\obj\Debug\net6.0\EX1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\obj\Debug\net6.0\EX1.AssemblyInfoInputs.cache
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\obj\Debug\net6.0\EX1.AssemblyInfo.cs
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\obj\Debug\net6.0\EX1.csproj.CoreCompileInputs.cache
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\obj\Debug\net6.0\EX1.dll
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\obj\Debug\net6.0\refint\EX1.dll
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\obj\Debug\net6.0\EX1.pdb
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\obj\Debug\net6.0\EX1.genruntimeconfig.cache
+D:\GeekBrains\3\Знакомство с языками программирования (лекции)\Урок 1. Знакомство с языком программирования C#\QWE\Exampls\EX1\obj\Debug\net6.0\ref\EX1.dll
